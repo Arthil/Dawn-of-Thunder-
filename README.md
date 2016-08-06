@@ -6,8 +6,11 @@ There are 4 kinds of resources gold, wood, iron and food. Every building and tro
 In addition to the commercial buildings the player is also able to build a barracks (for training troops) and capital buildings (a player may only construct other buildings near these structures).
 
 There are many kinds of troops in the game:
+
   Archer    (ranged) cheap and easy to train, weak if not protected.
+  
   Swordman  (melee) also cheap but vunerable to ranged attacks.
+  
   Pikeman   (melee) very effective against knights.
   Knight    (melee) expensive but fast and powerful.
   Catapult  (ranged)  specializes in destroying buildings, very weak against melee.
