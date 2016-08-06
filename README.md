@@ -32,3 +32,6 @@ There are many kinds of troops in the game:
   ---Catapult  (ranged)  specializes in destroying buildings, very weak against melee.
 
 
+
+Images of the game:
+
