@@ -23,7 +23,7 @@ There are many kinds of troops in the game:
 
   ---Archer    (ranged) cheap and easy to train, weak if not protected.
   
-  ---Swordman  (melee) also cheap but vunerable to ranged attacks.
+  ---Swordman  (melee) also cheap but vulnerable to ranged attacks.
   
   ---Pikeman   (melee) very effective against knights.
   
