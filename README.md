@@ -7,12 +7,14 @@ In addition to the commercial buildings the player is also able to build a barra
 
 There are many kinds of troops in the game:
 
-  Archer    (ranged) cheap and easy to train, weak if not protected.
+  ---Archer    (ranged) cheap and easy to train, weak if not protected.
   
-  Swordman  (melee) also cheap but vunerable to ranged attacks.
+  ---Swordman  (melee) also cheap but vunerable to ranged attacks.
   
-  Pikeman   (melee) very effective against knights.
-  Knight    (melee) expensive but fast and powerful.
-  Catapult  (ranged)  specializes in destroying buildings, very weak against melee.
+  ---Pikeman   (melee) very effective against knights.
+  
+  ---Knight    (melee) expensive but fast and powerful.
+  
+  ---Catapult  (ranged)  specializes in destroying buildings, very weak against melee.
 
 For each game, the game creates a random map consisting of varying terrain.
