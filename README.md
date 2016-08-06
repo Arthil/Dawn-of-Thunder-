@@ -34,4 +34,14 @@ There are many kinds of troops in the game:
 
 
 Images of the game:
+![alt tag]()
 
+![alt tag]()
+
+![alt tag]()
+
+![alt tag]()
+
+![alt tag]()
+
+![alt tag]()
