@@ -34,6 +34,8 @@ There are many kinds of troops in the game:
 
 
 Images of the game:
+
+
 ![alt tag](https://github.com/Arthil/Dawn-of-Thunder-/blob/master/dawn%20of%20thunder%20screenshots/picture1.png?raw=true)
 
 ![alt tag](https://github.com/Arthil/Dawn-of-Thunder-/blob/master/dawn%20of%20thunder%20screenshots/picture2.png?raw=true)
