@@ -11,11 +11,11 @@ There are 4 kinds of resources gold, wood, iron and food. Every building and tro
 
 ---Mine increases iron income (can only be built in mountains)
 
----Farm increases food income (can only be built in an open area 
+---Farm increases food income (can only be built in an open area)
 
 ---Lumbermill increases wood income (can only be built in a forest) 
 
----Market increases gold income (can only be built in an open area).
+---Market increases gold income (can only be built in an open area)
 
 In addition to the commercial buildings the player is also able to build a barracks (for training troops) and capital buildings (a player may only construct other buildings near these structures).
 
